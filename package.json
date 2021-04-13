@@ -1,0 +1,8 @@
+{
+  "name": "classql",
+  "version": "1.0.0",
+  "description": "class ql practice",
+  "main": "index.js",
+  "repository": "https://github.com/salim8511/classql.git",
+  "license": "MIT"
+}
